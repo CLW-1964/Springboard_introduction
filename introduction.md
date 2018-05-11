@@ -1,46 +1,33 @@
 # Biography
 
-Hi everyone. My name is Guy. I have a background in algorithm development for
-Radar and Raman spectroscopy. It was my PhD in statistical pattern recognition
-that got me into this field, if you can call it a field, that mixes programming
-with science and domain knowledge and more than a little hacking. I enjoy running
-for keeping fit and have a pet house rabbit.
+Hello everyone! My name is Chris. I'm a seasoned engineer and problem solver with a very diverse background in Quality Assurance, Yield Enhancement, Logistics, Failure Analysis, Statistical Process Control (SPC), Lean and Six Sigma, MEMS, and most recently Chemical Process and Packaging.
+
+I took a break from the "real" world a couple of years ago to establish manufacturing operations for my family business here in Texas. Now that things are running smoothly, I decided it was time for a change... and here I am!
 
 # What I hope to gain from this course
 
 Three things I hope to gain from this course are:
 
-1. Helping others to learn new skills
-2. Editing an enumerated list in markdown
+1. Become quasi-compitent coding in R
+2. Brush up on statistics
+3. Get better insight into the direction I want to take in data science
 
 # What challenges I anticipate facing
 
-I am very busy and time is very precious. It is going to be very
-hard finding the time to keep up my running after work and studying.
+Learning to code! I simply have zero experience doing it.
 
 # What strategies I will use to overcome these challenges
 
-I will establish a set routine of going for a run as soon as I get home
-from work, for an hour. That gives me an hour for dinner and then two
-hours to devote to studying. This core of 10 hours in the working week
-can be supplemented by time at the weekend. I will not watch TV during
-the week.
+I've been very fortunate in my professional career and have decided to take a one year sabbatical from working in order to achieve my goal of becoming a data scientist. I'm renting a workspace a couple of miles from the house and put in 6+ hours studying Monday through Friday. 
 
 # My capstone project ideas
 
-Some questions on my mind at the moment include:
+In no particular order, here are a few ideas I have been kicking around:
 
-* Can historic house prices reveal gentrification waves?
-* Is gentrification associated with increased homelessness?
-* When is the best time to donate to homeless causes?
+* Anything football (soccer) related!
+    + Are there factors that can accurately identify which team will win a given match? Does a teams time of possesion matter, team passing accuracy, etc.. Or, is more individul player related? Could we predict the winner of the World Cup using a team's individual player stats from their club team?
+* Healthcare treatment outcomes
+    + based upon a diagnosis can we determine an optimal course of treatment? My guess is we can, but for a first project I will probably have to narrow the focus.
+* The 2016 and future US elections
+    + Is there a way to determine if outside (Russian) factors influenced certain segments of the population to vote one way or the other? Can we predict future election results based on shifting population demographics?
 
-My thinking here is that historic house price data is readily available, but
-a key question is how to define, and thus detect, gentrification. How would I best
-divide the spatial data into regions? Assuming gentrification can be defined/detected,
-can I obtain matching (regional) data on homelessness? I believe this is notoriously
-underreported. This may be a problem for that question. For the final question, I will
-look at homeless charities and see if they publish any data. My starting assumption is
-that Christmas is a popular time for goodwill, with Christmas dinners provided in various
-locations and shelters opening their doors. But what about the cold months after? Does the
-surge of goodwill and public attention drop, leaving the homeless literally out in the cold?
-Will I need some sort of supply and demand data from a charity?
